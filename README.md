@@ -4,10 +4,10 @@
 
 ### Hi there, I am the real Slim Shady! 👋
 [![Linkedin Badge](https://img.shields.io/badge/-slimshady-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/rajaprerak/)
-[![Gmail Badge](https://img.shields.io/badge/-theunrealslimshady@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:rajaprerak@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-theunrealslimshady@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abh6l9sh@protonmail.com)](mailto:abh6l9sh@protonmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://scriptlabs.org)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+- ⚡ Fun fact: Take it one day at a time
 
 💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -16,7 +16,7 @@
 - Data Science 😬
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=ak3in2d&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=abhlxsh07&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
     
 🛠**Tech Stack**
@@ -39,6 +39,4 @@
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
-<div align="center">
-    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div>
+
