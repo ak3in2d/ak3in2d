@@ -3,8 +3,8 @@
 
 
 ### Hi there, I am Abhilash! 👋
-[![Linkedin Badge](https://img.shields.io/badge/-slimshady-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/rajaprerak/)
-[![Gmail Badge](https://img.shields.io/badge/-theunrealslimshady@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abh6l9sh@protonmail.com)](mailto:abh6l9sh@protonmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-website-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/rajaprerak/)
+[![Gmail Badge](https://img.shields.io/badge/-xyz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abh6l9sh@protonmail.com)](mailto:abh6l9sh@protonmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://scriptlabs.org)
 - ⚡ Fun fact: Take it one day at a time
