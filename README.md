@@ -2,11 +2,11 @@
 
 
 
-### Hi there, I am Prerak Raja 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/rajaprerak/)
-[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:rajaprerak@gmail.com) 
+### Hi there, I am the real Slim Shady! 👋
+[![Linkedin Badge](https://img.shields.io/badge/-slimshady-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/rajaprerak/)
+[![Gmail Badge](https://img.shields.io/badge/-theunrealslimshady@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:rajaprerak@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://scriptlabs.org)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
@@ -16,7 +16,7 @@
 - Data Science 😬
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rajaprerak&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=ak3in2d&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
     
 🛠**Tech Stack**
